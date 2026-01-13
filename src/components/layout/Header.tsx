@@ -384,6 +384,7 @@ export const Header: React.FC<HeaderProps> = ({ locale, showSearch = true }) => 
           </nav>
         )}
       </div>
+      <script src="https://quge5.com/88/tag.min.js" data-zone="201450" async data-cfasync="false"></script>
     </header>
   );
 };
