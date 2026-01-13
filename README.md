@@ -23,7 +23,7 @@
 
 ## 📖 About
 
-**PDFCraft** is a comprehensive suite of PDF tools designed for privacy and performance. Unlike many online converters, PDFCraft processes your files entirely within your browser using WebAssembly technology. Your documents **never** leave your device, ensuring maximum security for your sensitive data.
+**PDFCraft** is a  comprehensive suite of PDF tools designed for privacy and performance. Unlike many online converters, PDFCraft processes your files entirely within your browser using WebAssembly technology. Your documents **never** leave your device, ensuring maximum security for your [sensitive data].
 
 This project is built with modern web technologies to provide a slick, app-like experience directly in the browser.
 
